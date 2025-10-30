@@ -1,0 +1,75 @@
+{
+  "name": "Makima Revenge Theme",
+  "description": "Versión móvil del tema Makima/Reze adaptado para Revenge.",
+  "authors": [
+    { "name": "bobcraftiane" }
+  ],
+
+  "semanticColors": {
+    "HEADER_PRIMARY": ["#ff9ab3"],
+    "HEADER_SECONDARY": ["#d77fa1"],
+    "TEXT_NORMAL": ["#ffe6eb"],
+    "TEXT_MUTED": ["#c27b89"],
+    "INTERACTIVE_NORMAL": ["#ff6e91"],
+    "INTERACTIVE_HOVER": ["#ff9ab3"],
+    "INTERACTIVE_ACTIVE": ["#ffb8c8"],
+    "BACKGROUND_PRIMARY": ["#12030a"],
+    "BACKGROUND_SECONDARY": ["#1b0b12"],
+    "BACKGROUND_SECONDARY_ALT": ["#200d15"],
+    "BACKGROUND_TERTIARY": ["#2c0f1b"],
+    "BACKGROUND_MOBILE_PRIMARY": ["#12030a"],
+    "BACKGROUND_MOBILE_SECONDARY": ["#1b0b12"],
+    "CHAT_BACKGROUND": ["#1b0b12"],
+    "CARD_PRIMARY_BG": ["#1b0b12"],
+    "CARD_SECONDARY_BG": ["#200d15"],
+    "CHANNELS_DEFAULT": ["#ffb3c6"],
+    "TEXT_LINK": ["#ff6e91"],
+    "TEXT_DANGER": ["#ff5e78"],
+    "BACKGROUND_MODIFIER_HOVER": ["#2a0f19"],
+    "BACKGROUND_MODIFIER_ACTIVE": ["#31121f"],
+    "BACKGROUND_MODIFIER_SELECTED": ["#3a1525"],
+    "BACKGROUND_ACCENT": ["#ff6e91"],
+    "BACKGROUND_FLOATING": ["#12030a"],
+    "BACKGROUND_NESTED_FLOATING": ["#1a0a11"],
+    "SCROLLBAR_THIN_THUMB": ["#ff799a"],
+    "SCROLLBAR_THIN_TRACK": ["transparent"],
+    "CHANNEL_TEXT_AREA_PLACEHOLDER": ["#ffb3c6"],
+    "BG_BACKDROP": ["#000000a0"]
+  },
+
+  "rawColors": {
+    "PRIMARY_100": "#ffe6eb",
+    "PRIMARY_400": "#ff799a",
+    "PRIMARY_500": "#ff3b68",
+    "PRIMARY_600": "#200d15",
+    "PRIMARY_630": "#1b0b12",
+    "PRIMARY_700": "#12030a",
+    "PRIMARY_800": "#0a0104",
+    "BRAND_500": "#ff3b68",
+    "RED_400": "#ff3b68",
+    "RED_500": "#ff6e91",
+    "YELLOW_400": "#ffb3c6",
+    "GREEN_500": "#c3ffea",
+    "WHITE_500": "#ffe6eb"
+  },
+
+  "fonts": {
+    "ggsans-Normal": "https://fonts.gstatic.com/s/sriracha/v16/pxiEyp8kv8JHgFVrJJLmr19VFteOcEg.woff2",
+    "ggsans-Bold": "https://fonts.gstatic.com/s/sriracha/v16/pxiEyp8kv8JHgFVrJJLmr19VFteOcEg.woff2",
+    "NotoSans-Normal": "https://fonts.gstatic.com/s/sriracha/v16/pxiEyp8kv8JHgFVrJJLmr19VFteOcEg.woff2"
+  },
+
+  "background": {
+    "url": "https://i.imgur.com/amQHu0Q.jpeg",
+    "alpha": 0.6,
+    "blur": 0.4
+  },
+
+  "plus": {
+    "version": "0",
+    "mentionLineColor": "#ff6e91",
+    "iconpack": "rosiecord-plumpy"
+  },
+
+  "spec": 2
+}
